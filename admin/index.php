@@ -2,8 +2,7 @@
 
 /*!
  * Featured Calendar Maker v1.0
- * Copyright 2020 ToolsMakers
- * Docs & License: https://www.toolsmakers.com/
+ * Copyright 2020 Codoner
  */
 
 namespace ToolsMakers;

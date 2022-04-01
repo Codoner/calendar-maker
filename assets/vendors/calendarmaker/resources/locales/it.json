@@ -1,0 +1,208 @@
+{
+    "custom": {
+        "categories": {
+            "none":"Seleziona categoria",
+            "work":"Lavoro",
+            "personal":"Personale",
+            "training":"Formazione",
+            "orders":"Ordini",
+            "travels":"Viaggi"
+        },
+        "fields":{
+            "age":"Età",
+            "gender":"Sesso"
+        }
+    },   
+    "core": {
+        "recurring_event":"Evento ricorrente",
+        "every_month_on_day":"Ogni mese il giorno",
+        "monthly_on_the":"Mensilmente ogni",
+        "yearly_on":"Annualmente ogni",
+        "every":"Ogni",
+        "of":"di",
+        "week_of_month": {
+            "first":"primo/a",
+            "second":"secondo/a",
+            "third":"terzo/a",
+            "fourth":"quarto/a",
+            "last":"ultimo/a"
+        },
+        "days": {
+            "sunday":"domenica",
+            "monday":"lunedì",
+            "tuesday":"martedì",
+            "wednesday":"mercoledì",
+            "thursday":"giovedì",
+            "friday":"venerdì",
+            "saturday":"sabato"
+        },            
+        "months": {
+            "january":"gennaio",
+            "february":"febbraio",
+            "march":"marzo",
+            "april":"aprile",
+            "may":"maggio",
+            "june":"giugno",
+            "july":"luglio",
+            "august":"agosto",
+            "september":"settembre",
+            "october":"ottobre",
+            "november":"novembre",
+            "december":"dicembre"                  
+        },
+        "wysiwyg": {  
+            "font_size":"Dimensione",
+            "font_size_values": {
+                "huge":"Enorme",
+                "normal":"Normale",
+                "small":"Piccolo"
+            },
+            "text_highlight_color":"Colore evidenziatore",
+            "text_highlight_color_values": {
+                "blue":"Blu",
+                "green":"Verde",
+                "orange":"Arancione",
+                "red":"Rosso",
+                "yellow":"Giallo"
+            },
+            "font_color":"Colore carattere",
+            "font_color_values": {
+                "black":"Nero",
+                "blue":"Blu",
+                "green":"Verde",
+                "orange":"Arancione",
+                "red":"Rosso",
+                "yellow":"Giallo"
+            },
+            "bold":"Grassetto (Ctrl/Cmd+B)",
+            "italic":"Corsivo (Ctrl/Cmd+I)",
+            "strikethrough":"Barrato (Ctrl/Cmd+I)",
+            "underline":"Sottolineato (Ctrl/Cmd+U)",
+            "bullet_list":"Elenco puntato",
+            "number_list":"Elenco numerato",
+            "reduce_indent":"Riduci rientro (Shift+Tab)",
+            "indent":"Rientro (Tab)",
+            "text_align":"Allineamento testo",
+            "align_left":"Allinea a sinistra (Ctrl/Cmd+L)",
+            "align_center":"Allinea al centro (Ctrl/Cmd+E)",
+            "align_right":"Allinea a destra (Ctrl/Cmd+R)",
+            "align_justify":"Allineamento giustificato (Ctrl/Cmd+J)",
+            "hyperlink":"Collegamento ipertestuale",
+            "hyperlink_values": {
+                "add":"Aggiungi"
+            },
+            "remove_hyperlink":"Rimuovi collegamento",
+            "undo":"Annulla (Ctrl/Cmd+Z)",
+            "redo":"Ripeti (Ctrl/Cmd+Y)"
+        }
+    },    
+    "showEvent": {
+        "header": {
+            "title":"Dettagli evento"
+        },
+        "body": {
+            "title":"Titolo",
+            "placeholder_title":"Aggiungi titolo",
+            "description":"Descrizione",
+            "placeholder_description":"Aggiungi descrizione",
+            "url":"URL",
+            "placeholder_url":"http[s]://",
+            "date_range":"Intervallo date",
+            "start_at":"Dal",
+            "end_at":"Al",
+            "start_end":"Inizio / Fine"         
+        },
+        "footer": {
+            "export":"Esporta",
+            "edit":"Modifica",
+            "delete":"Elimina",
+            "delete_this_event":"Elimina solo questo evento",
+            "delete_all_events":"Elimina tutti gli eventi",
+            "close":"Chiudi"
+        }
+    },
+    "newEvent": {
+        "header": {
+            "title":"Aggiungi nuovo evento",
+            "allday":"Tutto il giorno",
+            "custom":"Personalizzato"
+        },
+        "body": {
+            "title":"Titolo (*)",
+            "placeholder_title":"Aggiungi titolo",
+            "description":"Descrizione",
+            "placeholder_description":"Aggiungi descrizione",
+            "start_end":"Inizio / Fine",
+            "repeat":"Ricorrenza",
+            "does_not_repeat":"Evento singolo",
+            "daily_recurring":"Ripeti ogni giorno",
+            "weekly_recurring":"Ripeti ogni settimana",
+            "monthly_recurring":"Ripeti ogni mese",
+            "yearly_recurring":"Ripeti ogni anno",
+            "each":"ogni",
+            "days":"giorni",
+            "weeks":"settimane",
+            "months":"mesi",
+            "never":"Mai",
+            "date":"Fino a",
+            "after":"Dopo",
+            "end":"fine",
+            "occurrences":"Occorrenze",
+            "event_color":"Colore evento",
+            "url":"URL",
+            "placeholder_url":"http[s]://",
+            "category":"Categoria"
+        },
+        "footer": {
+            "save":"Salva"
+        }
+    },
+    "editEvent": {
+        "header": {
+            "title":"Modifica evento",
+            "allday":"Tutto il giorno",
+            "custom":"Personalizzato"
+        },
+        "body": {
+            "title":"Titolo (*)",
+            "placeholder_title":"Aggiungi titolo",
+            "description":"Descrizione",
+            "placeholder_description":"Aggiungi descrizione",
+            "start_end":"Inizio / Fine",
+            "repeat":"Ricorrenza",
+            "does_not_repeat":"Evento singolo",
+            "daily_recurring":"Ripeti ogni giorno",
+            "weekly_recurring":"Ripeti ogni settimana",
+            "monthly_recurring":"Ripeti ogni mese",
+            "yearly_recurring":"Ripeti ogni anno",
+            "each":"ogni",
+            "days":"giorni",
+            "weeks":"settimane",
+            "months":"mesi",
+            "never":"Mai",
+            "date":"Fino a",
+            "after":"Dopo",
+            "end":"fine",
+            "occurrences":"Occorrenze",
+            "event_color":"Colore evento",
+            "url":"URL",
+            "placeholder_url":"http[s]://",
+            "category":"Categoria"
+        },
+        "footer": {
+            "update":"Aggiorna"
+        }
+    },
+    "import": {
+        "header": {
+            "title":"Importa calendario"
+        },
+        "body": {
+            "from_file":"Da file (.ics)",
+            "from_url":"Da URL",
+            "file_content":"Contenuto del file",
+            "upload":"Carica",
+            "ics_from_url":"ICS da URL"
+        }        
+    }    
+}

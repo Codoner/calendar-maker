@@ -27,6 +27,7 @@ Featured Calendar Maker v1.0 is a complete and fully customizable software solut
 - Easy to Install
 - Demo Included
 - Documentation Included
+- 
 
 ## Requirements
 

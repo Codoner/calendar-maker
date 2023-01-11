@@ -51,7 +51,7 @@ Featured Calendar Maker v1.0 is a complete and fully customizable software solut
 
   7. Click menu Help and read “Getting Started”
 
-### 🖥️ Demo
+#### 🖥️ Demo
 
 <img class="inline-flex" src="./screen-shots/001.jpg" width="300" alt="Demo" /><img class="inline-flex" src="./screen-shots/002.jpg" width="300" alt="Demo" />
 
